@@ -1,2 +1,3 @@
 #!/bin/sh
-Hello
+echo "Hello"
+echo "my changes"
